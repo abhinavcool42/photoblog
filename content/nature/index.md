@@ -5,6 +5,7 @@ menus: "main"
 sort_by: Name # Exif.Date
 sort_order: desc
 title: Nature
+private: true
 #type: gallery
 weight: 3
 params:
